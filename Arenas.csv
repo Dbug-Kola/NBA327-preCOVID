@@ -1,0 +1,861 @@
+id,nickname,city,state,country,Zip_Code,capacity,sponsor,Year_Opened
+1,"American Airlines Arena",Dallas,Texas,USA,75219,19200,Chime,2001
+2,"Amway Arena",Orlando,Florida,USA,32801,18846,"Walt Disney World",2010
+3,"AT&T Center","San Antonio",Texas,USA,78219,18418,"Frost Bank",2002
+4,"Ball Arena",Denver,Colorado,USA,78219,19520,"Western Union",1999
+5,"Barclays Center",Brooklyn,"New York",USA,11217,17732,Infor,2012
+6,"Captitol One Arena","Washington, D.C.",NULL,USA,20004,20356,Geico,1997
+7,"Chase Center","San Francisco",California,USA,94158,18064,Rakuten,2019
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,2019
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+1,"American Airlines Arena",Dallas,Texas,USA,75219,19200,Chime,2001
+2,"Amway Arena",Orlando,Florida,USA,32801,18846,"Walt Disney World",2010
+3,"AT&T Center","San Antonio",Texas,USA,78219,18418,"Frost Bank",2002
+4,"Ball Arena",Denver,Colorado,USA,78219,19520,"Western Union",1999
+5,"Barclays Center",Brooklyn,"New York",USA,11217,17732,Infor,2012
+6,"Captitol One Arena","Washington, D.C.",NULL,USA,20004,20356,Geico,1997
+7,"Chase Center","San Francisco",California,USA,94158,18064,Rakuten,2019
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,2019
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+1,"American Airlines Arena",Dallas,Texas,USA,75219,19200,Chime,2001
+2,"Amway Arena",Orlando,Florida,USA,32801,18846,"Walt Disney World",2010
+3,"AT&T Center","San Antonio",Texas,USA,78219,18418,"Frost Bank",2002
+4,"Ball Arena",Denver,Colorado,USA,78219,19520,"Western Union",1999
+5,"Barclays Center",Brooklyn,"New York",USA,11217,17732,Infor,2012
+6,"Captitol One Arena","Washington, D.C.",NULL,USA,20004,20356,Geico,1997
+7,"Chase Center","San Francisco",California,USA,94158,18064,Rakuten,2019
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,2019
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+1,"American Airlines Arena",Dallas,Texas,USA,75219,19200,Chime,2001
+2,"Amway Arena",Orlando,Florida,USA,32801,18846,"Walt Disney World",2010
+3,"AT&T Center","San Antonio",Texas,USA,78219,18418,"Frost Bank",2002
+4,"Ball Arena",Denver,Colorado,USA,78219,19520,"Western Union",1999
+5,"Barclays Center",Brooklyn,"New York",USA,11217,17732,Infor,2012
+6,"Captitol One Arena","Washington, D.C.",NULL,USA,20004,20356,Geico,1997
+7,"Chase Center","San Francisco",California,USA,94158,18064,Rakuten,2019
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,2019
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+1,"American Airlines Arena",Dallas,Texas,USA,75219,19200,Chime,2001
+2,"Amway Arena",Orlando,Florida,USA,32801,18846,"Walt Disney World",2010
+3,"AT&T Center","San Antonio",Texas,USA,78219,18418,"Frost Bank",2002
+4,"Ball Arena",Denver,Colorado,USA,78219,19520,"Western Union",1999
+5,"Barclays Center",Brooklyn,"New York",USA,11217,17732,Infor,2012
+6,"Captitol One Arena","Washington, D.C.",NULL,USA,20004,20356,Geico,1997
+7,"Chase Center","San Francisco",California,USA,94158,18064,Rakuten,2019
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,2019
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+1,"American Airlines Arena",Dallas,Texas,USA,75219,19200,Chime,2001
+2,"Amway Arena",Orlando,Florida,USA,32801,18846,"Walt Disney World",2010
+3,"AT&T Center","San Antonio",Texas,USA,78219,18418,"Frost Bank",2002
+4,"Ball Arena",Denver,Colorado,USA,78219,19520,"Western Union",1999
+5,"Barclays Center",Brooklyn,"New York",USA,11217,17732,Infor,2012
+6,"Captitol One Arena","Washington, D.C.",NULL,USA,20004,20356,Geico,1997
+7,"Chase Center","San Francisco",California,USA,94158,18064,Rakuten,2019
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,2019
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Chase Center","San Francisco",California,USA,94158,18064,Rakuten,2019
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,2019
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Motorola,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
+7,"Oracle Arena",Oakland,California,USA,94621,19596,Rakuten,1966
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Wish,1999
+8,"STAPLES Center","Los Angeles",California,USA,90015,19079,Bumble,1999
+9,FedexForum,Memphis,Tennessee,USA,38103,18119,FedEx,2004
+10,"Fiserv Forum",Milwaukee,Wisconsin,USA,53203,17341,Harley-Davidson,2018
+12,"American Airlines Arena",Miami,Florida,USA,33132,19600,"Ultimate Software",1999
+13,"Gainbridge Fieldhouse",Indianapolis,Indiana,USA,46204,17923,Motorola,1999
+14,"Golden 1  Center",Sacramento,California,USA,95814,17608,"Blue Diamond Growers",2016
+15,"Little Caesars Arena",Detroit,Michigan,USA,48201,20332,"Flagstar Bank",2017
+16,"Madison Square Garden","New York City","New York",USA,10001,20789,Squarespace,1968
+17,"Moda Center",Portland,Oregon,USA,97227,19980,Biofreeze,1995
+21,"Smoothie King Center","New Orleans",Louisiana,USA,70113,16867,Zatarain's,1999
+23,"Spectrum Center",Charlotte,"North Carolina",USA,28202,19077,LendingTree,2005
+24,"State Farm Arena",Atlanta,Georgia,USA,30303,16600,Sharecare,1999
+25,"Target Center",Minneapolis,Minnesota,USA,55403,18798,Fitbit,1990
+26,"TD Garden",Boston,Massachusetts,USA,02114,19156,"General Electric",1995
+27,"Toyota Center",Houston,Texas,USA,77002,18055,"ROKiT Phones",2003
+28,"United Center",Chicago,Illinois,USA,60612,20917,"Zenni Optical",1994
+29,"Vivint Arena","Salt Lake City",Utah,USA,84101,18300,Qualtrics,1991
+30,"Wells Fargo Center",Philadelphia,Pennsylvania,USA,19148,20478,Stubhub,1996
